@@ -1,4 +1,4 @@
-ESFree is a open source scheduling library providing theoretical real-time concepts for FreeRTOS.
+ESFree is an open source scheduling library providing theoretical real-time concepts for FreeRTOS.
 As ESFree does not modify the FreeRTOS kernel, the library should work on any platform that runs
 FreeRTOS. ESFree has been tested and verified on following platforms:
 * Digilent ZedBoard (Xilinx Zynq) with FreeRTOS V8.2.3
@@ -20,3 +20,4 @@ Features provided by ESFree V1.0.0:
 * Timing error detection and handling for deadline miss
 
 Documentation of ESFree is available at: (not yet)
+
