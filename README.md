@@ -5,8 +5,8 @@ FreeRTOS. ESFree has been tested and verified on following platforms:
 * Digilent Nexys 4 DDR (Xilinx MicroBlaze) with FreeRTOS V8.2.3
 * STMicroelectronics STM32 Nucleo-F401RE (ARM Cortex-M4F) with FreeRTOS V8.2.1
 
-ESFree is simple to use, you just need to move scheduler.h and scheduler.c to the project map and
-include scheduler.h.
+ESFree is simple to use, just move scheduler.h and scheduler.c to the project folder and include
+scheduler.h.
 
 Features provided by ESFree V1.0.0:
 * Periodic tasks with phases
