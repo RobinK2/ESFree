@@ -8,7 +8,7 @@ FreeRTOS. ESFree has been tested and verified on following platforms:
 ESFree is simple to use, just move scheduler.h and scheduler.c to the project folder and include
 scheduler.h.
 
-Features provided by ESFree V1.0.0:
+Features provided by ESFree V1.0:
 * Periodic tasks with phases
 * Aperiodic jobs
 * Sporadic jobs
