@@ -19,5 +19,5 @@ Features provided by ESFree V1.0:
 * Timing error detection and handling for worst-case execution time excess
 * Timing error detection and handling for deadline miss
 
-Documentation of ESFree is available at: (not yet)
+Documentation of ESFree is available at: (http://www.diva-portal.org/smash/get/diva2:1085303/FULLTEXT01.pdf)
 
